@@ -1,3 +1,3 @@
 # nandoztx.github.io
-pagina teste: nandoztx.github.io/teste
-teste
+subpagina de teste: nandoztx.github.io/subpagina
+
